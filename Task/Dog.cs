@@ -9,6 +9,7 @@ namespace Task
     internal class Dog : Animal
     {
         private string animalname;
+
         public override string AnimalName
         {
             get => animalname;
